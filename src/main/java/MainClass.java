@@ -4,3 +4,6 @@ public class MainClass {
 class Sample{
 
 }
+class Satya{
+
+}
