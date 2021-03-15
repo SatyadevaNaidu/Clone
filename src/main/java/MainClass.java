@@ -1,19 +1,9 @@
 public class MainClass {
-    int A;
-}
-class Sample{
+    public MainClass(){
 
-}
-
-class Satya{
-
-}
-class Aravind{
-
-}
-class Koushik {
-
-}
-class Ness {
-
+    }
+    public int distace_converter(int km){
+        double miles = km*1.6;
+        return (int) miles;
+    }
 }
