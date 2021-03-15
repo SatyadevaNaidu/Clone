@@ -4,6 +4,6 @@ public class MainClass {
     }
     public int distace_converter(int km){
         double miles = km*1.6;
-        return 0;
+        return (int)miles;
     }
 }

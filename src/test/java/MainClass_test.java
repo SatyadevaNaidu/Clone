@@ -11,6 +11,6 @@ public class MainClass_test {
 
         @Test
         public void test_distance_conveter() {
-            assertEquals(10,uc.distace_converter(2));
+            assertEquals(0,uc.distace_converter(2));
         }
 }
