@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.BeforeClass;
 import org.junit.Test;
-public class MainClass_test {
+public class TestMain {
         private static MainClass uc;
 
         @BeforeClass
